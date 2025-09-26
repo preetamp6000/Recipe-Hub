@@ -142,7 +142,7 @@ const RecipeApp = () => {
             </span>
           </div>
           <p className="text-gray-400">
-            Powered by TheMealDB API • Built with React & Tailwind CSS
+            Powered by TheMealDB API 
           </p>
         </div>
       </footer>
